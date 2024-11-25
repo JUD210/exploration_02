@@ -1,4 +1,4 @@
-tf_flowers
+data
 *.h5
 *.keras
 checkpoint* 
